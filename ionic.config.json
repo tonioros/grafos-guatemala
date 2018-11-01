@@ -1,0 +1,8 @@
+{
+  "name": "MateDisc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "8db508c8"
+}
